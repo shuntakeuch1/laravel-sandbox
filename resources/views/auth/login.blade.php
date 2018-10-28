@@ -3,7 +3,7 @@
         <meta charset="utf-8">
     </head>
     <body>
-        <h1>ログインフォーム</h1>
+        <h1>サンドボックス ログインフォーム</h1>
         @isset($message)
         <p style="color:red"{{$message}}></p>
         @endisset
